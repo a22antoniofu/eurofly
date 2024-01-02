@@ -1,0 +1,2691 @@
+Welcome to Eurofly. Training. Charter flight training. Hello everyone, warm greetings and let
+me welcome you finally to the first ever official English demonstration of a real-time flight in
+Eurofly 3, which is exactly what you'll be witnessing right now. And in case you're
+listening to this or watching this at the time it's been published, you'll be probably very
+interested in this because Eurofly 3, the new version, the long-anticipated version, is actually
+coming soon. And by that I mean really soon, like within a matter of days or weeks at worst. So stay
+tuned.
+To those of you who've been expecting it, I'm really glad to be here, to be able to be here
+finally. And I actually mean it because I'm aware, just like everyone else on the development team
+is aware, that you've been waiting for this really for ages and that there's been several
+promises, even if maybe just tentative ones, but still promises over the years that it's going to
+come, you know, to be released.
+Really soon. And yeah, there's been a delay, but just now we're finally about to release it. And still, it's
+never come until now. So we're glad to be able to tell you that it's finally here. Everyone on the team
+actually believed those promises at the time we made them. But as you as I'm sure many of you can imagine,
+real life things often like to get in the way and busy schedules and families and other duties at work and
+at other places and so on. But let's not delve into this very much because this is no longer the case. It's
+actually here or almost here. It may have been released already by the time you're watching this. So let's not
+talk about the past. Let's talk about the present and the future. To those of you who may be coming to
+Eurofly 3 for the first time, when hearing this, you may have never experienced the previous versions of the
+game before.
+I hope this is going to be as useful as it is to those who know what Eurofly is all about because they've played it
+before and they can't wait to actually get their hands on the new features and on the changes on the new version of
+the game. So as you've probably heard, or guessed by now, even those of you who haven't played it before, Eurofly is
+an actual flight simulator, an audio simulator for the blind and visually impaired.
+So you will be flying and controlling a real aircraft, real plane. There's over 150 of them in total, I believe, different planes.
+And you'll be flying on the real world map, an actual real accurate representation of the Earth, including all the various
+airports in the different countries that exist out there.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also a game.
+So it's partly a game, but it's also actually a flight simulator.
+So it's partly a game, but it's also actually a flight simulator.
+And it's also the first ever accessible audio Atlas or our way to browse the actual real-world map.
+I'll be demonstrating everything and showing and explaining everything as though no one, none of you have played Eurofly before
+because there have been so many things that are new and different and changed in version 3.
+That essentially nothing has changed.
+That essentially nothing has changed in version 3.
+That essentially nothing has changed in version 3.
+That essentially nothing has changed.
+remained the same, except maybe for just a few basic keystrokes.
+So even if you knew how to fly a plane in version 2, even backwards, you know, you will
+still have to relearn everything from scratch, as though you were a completely newbie pilot.
+So as you can hear, we are already in the main menu, and we've been welcomed by a new
+jingle.
+Those of you who may have known the previous versions have most certainly noticed this,
+but there are several different jingles in version 3 now.
+We're going to get a different one every time we start the game, so the welcome is actually
+going to be slightly different every time.
+And by the way, before I get started with anything, let me just briefly emphasize and
+also apologize for my English, because as I'm sure you can hear, it's not my native
+language, it's my second language.
+So let me apologize in advance for any mistakes I may make.
+And I'm almost bound to make, actually, because I can tell you, it's pretty difficult to...
+But I'm not trying to use this as an excuse, but just as an explanation, it's pretty difficult
+to actually be flying a plane at the same time.
+You really have to concentrate on a lot of different things all at once, and to be talking
+over it at the same time.
+So let's hope I'm not going to make any mistakes.
+Cross your fingers for me if you can, and wish me luck, because I really don't want
+to kill any of my passengers, myself included, but I have my life insurance secured, so hopefully
+everything's going to be okay.
+Even if I do get killed, at least my family will not remain poor.
+All right, we're in the main menu, so let's take at the main menu.
+Exit.
+Training.
+Charter flights.
+Business flights.
+All right.
+Scheduled flights.
+Free flights.
+World map exploration.
+Profiles.
+Speaker test.
+Settings.
+Add-ons.
+About the program.
+Exit.
+Training.
+As you can hear, it's actually me voicing the menu for now in the official English translation,
+because I'm the only one on the team who feels comfortable enough at English to actually
+do it.
+And it's a pretty weird thing, by the way, to be hearing my own voice.
+As I'm talking to you at the same time.
+But we'll not be spending much time in the main menu today, because we are to fly, finally.
+So let's make a flight from the London Heathrow Airport in England or Great Britain to Manchester,
+also in England.
+It's about 240 something kilometers long, so it's going to take a while, and it's hopefully
+going to give me enough time to explain everything properly, you know, in enough detail as we
+go.
+By the way, I'm sorry to those of you who live in the US and are used to the imperial
+measurement units, you know, like miles and feet and gallons, et cetera, because I really
+can't use them for the life of mine.
+Sorry about that.
+I've honestly tried.
+Okay.
+I've tried to make the game hopefully more approachable to you, but I can't make any
+sense of them, honestly.
+And they're really confusing me because I'm not used to them at all.
+But at the same time, you can never please everyone at the same time.
+There are certainly going to be many listeners, perhaps maybe even more of them than those
+of you who are in the US.
+Many listeners from Europe who are used to the...
+To the metric units.
+So, no matter what I do, there's always going to be someone who is not really happy, I guess.
+But I believe it's not going to be too much of a problem because you will be able to just
+set your game, your personal copy of the game, the way you like it, and use whichever measurement
+units you like when you start playing it.
+Charter, business, schedule, free flights.
+So, I'll be doing a free flight.
+Free flight dialogue.
+My plane's combo box 1, clear.
+My plane's combo box 1, collapsed.
+But I'm actually going to have to rent the plane that I'm going to use because we'll
+be flying with the Boeing 787 Dreamliner, which is a plane that I'm not actually qualified
+for yet in the game.
+It's not part of my own personal fleet yet.
+So, I'm going to have to...
+Filter, edit, blank.
+Company plane's combo box 1.
+Filter, edit, blank.
+Rental offer combo box England Badminton.
+EG03.
+Zero euros, collapsed.
+Use the rental service that...
+I can use as a pilot for the Eurofly company now in version 3.
+When doing this, when trying to rent a plane, the first thing I have to do is choose the
+starting airport actually.
+So, where we'll be starting our flight, where the plane will be placed before I actually
+take off with it.
+England Doncaster.
+England London Heathrow.
+EGLL.
+Zero euros.
+Let's select England Heathrow.
+Plane rental dialogue.
+You are about to rent an aircraft that's not part of your fleet for a free flight.
+Your account will be charged zero.
+Do you wish to continue?
+Yes, I do wish to continue.
+Oh, by the way, I'm sorry.
+The buttons...
+Yes and no are displayed in Czech in my native language.
+So, that's why the screen reader reads them wrong.
+But it's not a bug in the game.
+It's actually because my system language, my local language is set to Czech and I forgot
+to change it.
+But I will not be editing it out, just like I will not be editing anything out during
+the flight.
+So, I'm going to have to do this.
+I'm going to have to do this.
+I'm going to have to do this.
+I'm going to have to do this.
+I'm going to have to do this.
+I'm going to have to do this.
+I'm going to have to do this.
+Yeah.
+Okay.
+I'm going to have to do this.
+That's why I'm saying that this app is set to Czech because my local language is set
+to Czech, and I forgot to change it.
+But I will not be editing it out, just like I will not be editing anything out during
+the flight.
+So, if I make a mistake and it causes me to stall or to crash because I was talking about
+something and I forgot to do something vital in the meantime, or forgot to do, or couldn't
+do it in time, well, let's keep it authentic.
+I just will not be editing anything out.
+uh and that's why um i will not be charged anything i will be charged zero for this
+rental because i'm using a tester only you know private beta version of the game plane selection
+dialogue select concord boeing 787 dreamliner so let's select the 787 dreamliner and if i press
+enter now europe uk controls ready europe uk greater london hillingdon harman's worth blank
+we are airport london heathrow at the uh heathrow airport sitting in the cockpit of our plane and
+we're ready to get going but before i do anything else let me show you the properties of the plane
+which have also been greatly expanded and changed in version 3 and in that way it'll allow us to see
+what kind of a beast we're actually even flying combo box pilot lucas hospital one collapsed so
+i've
+opened them with the control enter keystroke and the very first line uh tells me my name and my
+career level which is one for the time being so i'm actually still in training that's why
+i don't have the qualification for the 787 to be able to fly it uh like uh in of my own fleet
+skfre 696 free flight that's our call sign that will be used that the towers the controls will
+use when uh contacting us over the
+radio to to refer to us and uh we can hear that it's a free flight boeing 787 dreamliner
+this is the name of the plane obviously transport plane jet plane three rented it's a transport plane
+so it's not not it's not like a military plane it's a jet plane that's talking about its propulsion
+it's category three meaning the largest possible uh type of plane and it's currently rented so it's
+not my own certified
+that's the reason for me to be really careful because i don't want to smash it into the ground
+certified that means that it's a plane which is a part of the uh official company fleet of eurofly
+and all pilots are eligible to to uh use it for flights and to be ranked pushback required because
+this is a large plane this is one of the new systems the first one it requires pushback uh
+meaning planes cannot actually travel in reverse
+on their own uh not to mention such large planes so if i if i drive into the gate for instance to
+pick up my passengers and i either need to get out of the gate and uh continue going to my takeoff
+runway that i've been assigned by the tower i can't do that on my own using the power of my own
+engines so the airport has i have to call the the tower and ask them
+to push me back to to send me the pushback tractor which is going to do it
+uh that's why i need to have uh when i'm flying such a large plane i also need to have a large
+enough airport uh in this case it means uh i need an airport of category three
+for a plane of category three also uh with the maintenance services like this like pushback
+to be able to take off there and to be able to move on the airport with this plane
+condition 100 condition 100 this is another new feature in version 2 you may have been
+used to planes always being you know in top shape and uh perfect working order and that that's not
+that's not no longer going to be the case here um planes can get uh or various systems of the
+plane can get broken if we crash or if we but it has to be just a minor crash while moving
+on the ground slowly and
+like crashing into a building so we can break our lights or our onboard computer
+or other systems and then we'll need to ask the tower for repairs uh but it can also happen just
+as the planes age and we're down over time you know so last system check none the next line
+tells us that we haven't performed the system check uh not even once yet number of c but if we
+have uh had done it which i'm going to do now i'm going to leave the close the properties
+dialog with escape dashboard window and i'm going to press ctrl shift uh z on the english keyboard
+yeah to perform the check starting system check and if i now open the properties again
+certified condition 100 last system check just now just now system check all systems are working
+correctly
+and we see that all systems are working correctly number of seats 289 this is essentially the tech
+spec sheet for the plane obviously it's going to be different for each plane so we have a
+289 seats number of passengers zero total obviously we don't have any passengers on
+board at the moment wingspan 60m length 62m where it's 62 meters long wingspan 60m oh so our this
+is actually quite interesting and i've never noticed it before but our wingspan
+is uh just almost almost as much only two meters uh fewer than the length of the plane
+actually base weight 200t the base weight is 200 tons which is quite a lot current weight 200
+and since we don't have any fuel as we've as we'll find out shortly
+and no passengers either our current weight is still the same as the base weight but obviously
+it can change with depending on how much fuel we load or how many passengers we board crucial weight is more important than the length of the plane
+speed 955 kilometers this is the maximum declared uh speed at which we'll be able to fly maximum
+cruising range 15 750 kilometers if we had our full fuel tank completely full this is how far
+we would be able to travel in one flight uh uh in one go uh at the most maximum cruising altitude
+thirteen thousand one hundred m so we can't fly any higher than a thirteen thousand one hundred
+meters above the ground to to be safe and to avoid any damage of the engines flat positions
+zero slash six and this is another new feature in version three flat positions
+um you you heard that it's at zero slash six meaning they're currently set to zero out of
+six possible um positions or uh levels and we can
+either raise the flaps upwards which is used uh for taking off or downwards which is obviously
+used for landing so the planes the flaps are there to help keep our plane airborne even at low speeds
+in any case but the difference is obviously that if the play if the flaps are raised upwards
+it helps us to get up get out get away from the ground and lift uh raise our nose
+and if
+if they're um set downwards for landing it helps us to break faster after landing
+base takeoff speed 260 kilometers base landing speed 260 kilometers current stall speed 380
+kilometers we really have to watch these speeds especially all the current ones
+very carefully all the time during flight or until we get to know the plane by heart
+and we're really confident about all its parameters
+because the base takeoff and landing speeds again will be different depending on how
+much fuel and how many passengers we have and the same um the basic the base stall speed is
+always the same but it says current because the stall speed changes uh depending on the
+flaps that i was talking about before so current takeoff speed 260 kilometers currently with an
+empty tank and with an empty cabin with no passengers we would be able to theoretically be able to take off when landing positions will be wouldn't be able to take offrauen sw Sue가는 so do the three mid computer speed willпо
+� ikan see that if for there's no passengers we would be able to theoretically be able to take from the flare at full speed the belly speed is always the same because the base stall speed changes depending on the flaps that I was talking about before so current takeoff speed two hundred and sixty kilometers currently with an empty tank and with an empty cabin with no passengers we
+kuird căp thee
+theoretically be able to take off at 260 kilometers per hour take off nose angle 6 to 11 17 minimum
+flap position while taking off 2 but we would have to set the flaps upwards to position 2 for that
+at least 2 we could set them even higher but the minimum required for a successful takeoff is 2
+take off nose angle 6 to 11 17 and we would have to raise the nose to an angle between 6
+which is the minimum the optimal angle is 11 and the maximum is 17 for a successful takeoff
+if we raised the nose higher than 17 degrees we would actually lose lift and stall
+minimum takeoff runway length 2700 and we also need a runway which is at least 2700 meters long
+in order to be able to be able to take off successfully
+to gain enough speed for uh takeoff current landing speed 260 kilometers and the current
+landing speed is also 260 kilometers um we can't land uh at a higher speed than that if
+or much higher speed by like more than 20 kilometers higher than that if we tried it
+we would actually crash crash and break on the ground
+on on contact with the ground minimum flap position while landing four
+in order to be able to land successfully we have to have the flaps set to four downwards minimum
+landing runway length one thousand eight hundred and seventy m and the minimum landing runway
+length is actually shorter almost by a thousand meters shorter than uh the minimum required
+runway length for takeoff because uh we will be having the flaps set to a higher
+position for landing than we'll need to have them set for takeoff which means our
+uh the length of runway that we're going to be able to break uh is going to be shorter for landing
+but we need to keep watching the stealth the stall speed if you remember it said that our current
+stall speed was 380 kilometers meaning we would actually stall and fall down to the ground much
+sooner than we would be able to reach the required
+landing speed and that's why another reason we need to use the flaps because when we retract them
+beyond zero in either direction the stall speed decreases because we're able to uh they're able
+to keep us airborne even at lower speeds so the current stall speed of 380 kilometers would drop
+below the current takeoff or landing speed of 260 kilometers
+which is required fuel tank capacity 56 700 L current fuel load zero L currently we don't
+have any fuel loaded current cruising range zero kilometers so we can't travel any distance fuel
+used zero L haven't used any fuel yet either obviously battery off the battery is off the
+power supply so another new feature in version three we can't actually do anything at all
+not even start uh start the on-board
+computer or our radio or our transponder or any of the flights until we turn on the battery or
+the power supply which which then provides the necessary power required to start all the other
+systems including the engine APU off oh APU is another auxiliary power unit which the larger
+planes have but the smaller ones don't the planes that have it need to have the battery running as
+well in order to be able to start it because we can't start any other systems including the APU
+including the engines without the battery running but only if we have the battery running we can
+start the APU which is already using our fuel supply a tiny bit and that's the system which
+provides even more power than the battery allowing us on on these large category three planes to then
+finally start the engines only once
+is running. We can see that both engines are off. This is talking about gears and we'll
+be talking about this in a much greater detail in the upcoming series of audio tutorials
+on Eurofly 3, which the basic series includes 15 recordings describing various aspects of
+the program. And then there's an upcoming more advanced series that describes how to
+actually fly and control in even more detail all the nine basic planes that are required
+to successfully go through all the necessary stages of basic training. But very briefly,
+the gears are talking about the power of our engines.
+How much power, how much output they're currently producing and thus how much speed will be
+moving, but they're not directly related. In Eurofly 3, any speed or any movement is
+not, you don't just press a key anymore and that sets your speed. But any speed or course
+changes are only the result of moving.
+So, the gear is not the result of your engine power, of the engine output, or in the case
+of turning or climbing or descending, the result of how steeply you bank your wings
+or your wheels. Think of it like a steering wheel in a car, which if you wanted to turn,
+for example, to the left, you wouldn't just tap the wheel, you know, just press an arrow
+key. You would need to keep holding it under a certain angle in the direction that you're
+willing to turn for a while. As long as you wanted to keep turning, you would need to
+keep holding it. So, if you wanted to turn, say, 90 degrees to the left, you would need
+to keep holding it, pointing or turning to the left for a while. And only after you've
+turned as much as you wanted and are now satisfied with your current direction of travel, you
+could let go of the wheel and keep going straight from that point on.
+And the engine works pretty much the same. You are moving a lever, for instance. You're
+only a lever, essentially. The result of the... or how much power the engines will
+be running on depends on how far or how high up you've moved the lever, which obviously
+can be moved between 0 and 100 percent. 100 is full power, 0 is nothing at all, but even
+if you set it to 100, it'll take the engines a while
+to actually reach that full power. You know, to accelerate. Not to mention, there's two
+modes of flight. There's actual flight mode, but there's also the taxi mode for large planes
+like this one, which are capable of maximum cruising speeds above 500 kilometers per hour.
+And the taxi mode is used with these planes while moving along the airport, because we
+don't want to set the engine power to full.
+Yeah, the engines to full power and start going like 100 or 200 and more kilometers
+per hour while on the ground, while on the airport.
+So if we turn on taxi mode, that will actually make the lever, just the power lever adjustments
+much more fine, so that even if we set the power lever to 100 in taxi mode, it will actually
+be, the resulting power will only be 10 percent of the maximum available possible power of
+the engines. So only a tenth of the engine's maximum power, of the possible 100. In order
+to get the full power out of the engines, we would need to switch back to flight mode.
+So as soon as we're about to take off, we'll be switching from taxi mode to flight mode.
+And the gears.
+You have to press home or end a hundred times to, you know, move the lever all the way from
+zero to 100.
+There are keystrokes either to set maximum power for the given mode or minimum power
+with a single keystroke, or there is another set of keystrokes to quickly move the power
+by 10 percent up or down, or there's a third set of keystrokes, which allows you to set
+the, the specific gear, pretty much like shifting gears up or down in a car. And the,
+these plane properties here, this sheet, tells us exactly what percentage of the maximum
+possible power we'll be able to reach, and on any one of these gears.
+Engine, engine one, off.
+Engine, gear one, zero comma one percent, two comma four percent.
+Engine, engine one, off.
+Engine, gear one, zero comma one percent, two comma four percent.
+Engine, engine one, off.
+Engine, gear one, zero comma one percent, two comma four percent.
+Gear two, two comma five percent, four comma nine percent.
+Gear three, five percent, seven comma four percent.
+Gear four, seven comma five percent, nine common nine percent.
+Gear five, 10 percent, 10 percent.
+Reverse thrust inactive.
+So, if you could hear gear one,
+Gear one, engine two.
+started at like zero point something percent and ends at
+Engine, gear one, zero comma one percent.
+2.4 percent which is barely enough to even start moving and gear 5 actually does not end all the
+way at 100 but it only goes up to 10 and that's exactly because of the taxi mode once i switch to
+flight mode the gears the percentages that we're able to power the percentages of the maximum power
+that we'll be able to reach for each gear will change and gear 5 will let us go all the way up
+to 100 but by the way it's never healthy and advisable to fly with the very full power with
+100 for any engine so if we want to avoid engine damage we should only be flying at 90 percent of
+the power at the most at all times no matter what gear 2 gear 5 reverse thrust inactive
+reverse thrust is yet another new system in version 3 large planes like this one have it
+with
+where you can actually re-route the thrust that the engines produce
+to work in the other direction to go backwards so if we need to slow down
+you you don't only need to use you don't only have in you you have more options than just using the
+the ground brake after landing but you can also
+engage the engine and you can also engage the engine and you can also engage the engine and
+egage the reverse thrust to break even faster using the power of the engine but in that case
+remember that if you want to break harder you would actually have to increase the power
+in reverse thrust mode because the power of the engine is going backwards but you still need more
+power to break harder if that makes sense doors closed cockpit open yeah our doors closed the cabin
+but our cockpit is open seat belt unfastened we haven't even fastened our seat belt yet
+parking brakes active parking brakes uh i think there are they are also a new system
+as long as they're engaged we cannot move and this is a safety feature to make sure you don't
+like drift along the runway while you're not yet ready to do so you're you're uh creating your
+flight plan or boarding passengers or something landing gear you don't want to move you don't
+want to move uh on your own or the plane to move by itself landing gear the landing gear is lowered
+which means it's okay because and it has to be obviously when we're standing parked in the in
+the hangar uh so we're it we're ready for takeoff or for landing we've landed before so we're now
+sitting on our wheels current flap position zero yeah the current flap position is zero we haven't
+used them yet on board computer off radio off these are the individual systems transponder
+off
+off communicator off of the plane which all of which are still off atlas off sensor off status
+monitor off because we don't even have any power taxi lights off yet to turn them on cabin lights
+off the lights strobe lights off are a new thing in version three as well uh cabin taxi lights off
+these we need to have uh turned on when we're taxiing on the airport so that the ground personnel
+and other taxiing planes can see us cabin lights off these are the lights for the passengers so
+that they do it
+they don't have to spend all the duration of the flight sitting in their seats in the dark strobe
+lights off strobe lights these are these make the plane visible visible from the outside
+also to grand personnel but also in the air
+and to like passengers who are who are about to board it and they're coming over to the gate or
+stand where we're sitting waiting for them so that they can see which plane it is landing lights off
+and these are all
+only used when we're about to land and slow down and descend to reach the take
+the landing runway ventilation off ventilation cabin pressurization off and
+cabin pressurization are two new systems which also have to be on at all times
+during the flight which take care of producing enough oxygens for the
+passengers not to suffocate in higher altitudes temperature control off
+temperature control takes care of the weather obviously so that the
+passengers don't like freeze or overheat during the flight storm radar off storm
+radar went on can warn us of incoming or nearby storms teak off T Kass is the
+system that warns planes that are headed on perpendicular courses and are about
+to land to land on the airport it's also a system that is designed to take care of
+to take care of the weather obviously so that the passengers don't like freeze or
+to crash into each other.
+So usually the TCAS of one plane
+orders the pilot to climb
+while the system of the other plane
+orders their pilot to descend.
+Stall indication off.
+To avoid the crash.
+Stall indication is another warning system
+that will warn us if our cruising speed
+drops dangerously low
+and we've actually reached the stall speed,
+the current stall speed of the plane
+depending on the position of the flaps
+and we're losing lift and we're losing altitude.
+GPWS off.
+GPWS, I believe it stands for
+Ground Proximity Warning System
+and that's exactly what it does
+because in Eurofly 3 we also have to keep track
+and pay attention to yet another thing
+and that is the terrain,
+the elevation of the terrain in front of us
+because, you know,
+a map on paper would be,
+but the actual real world terrain is not flat.
+It's actually 3D, so there are hills and mountains
+and ridges and valleys and all of that
+cause the elevation or the height above sea level
+of the terrain below us to keep changing,
+to keep going up and down as we fly.
+So we need to keep track of whether there's any hill
+or mountain or any obstacle ahead of us
+with a higher, with a greater height above sea level
+than what our current altitude is.
+And if there is, we need to climb higher
+to avoid crashing into it.
+And the larger planes like this one have the system
+which warns us about this by itself.
+So it tells us to climb, to avoid collision with the ground
+or to change course, but on smaller, simpler planes
+like the B-341, without these automated systems,
+we have to keep track of all that manually.
+Bank angle indication on.
+Bank angle indication is an audio cue
+that plays all the time when we're turning.
+So as I was saying before, when our wings or wheels
+are banked to an angle causing us to turn,
+to change course so that we know we're actually turning,
+we're not level, we're not going straight.
+And that this also is true.
+This is also true in the case of the B-341,
+this is also true for the nose.
+If our nose is not straight,
+we're also hearing this indication.
+Audio navigation off.
+Audio navigation, I believe this is familiar.
+We can have this on during flight
+to keep hearing a continuous tone at all times
+from the direction of our destination
+so that we can tell even by sound alone
+in which direction to go and where to turn
+in order to be flying straight towards our destination.
+Auto navigation off.
+Auto navigation.
+That's essentially the autopilot
+or all of these remaining systems are part of the autopilot,
+which this one makes sure if enabled
+that the plane will always change its course by itself
+to keep flying straight towards the destination
+at all times.
+Auto speed inactive.
+Auto speed.
+We can set the plane to speed up or slow down
+to any required speed that we want.
+Auto course inactive.
+Auto course.
+We don't have to use the auto navigation
+to the destination that we have set before,
+but we can also set the plane to go
+in any specific course that we desire,
+which may not have to be the destination.
+I'll show you this feature in practice
+and how useful it is when I'm about to land.
+Auto altitude inactive.
+In auto altitude, we can also obviously,
+excuse me, set the altitude that we want to be flying in.
+Okay.
+These are the planes. Dashboard.
+These are the properties,
+but we need to get moving, don't we?
+So let's actually start doing something.
+Let me turn on the battery first.
+Control shift B,
+because as I was saying before,
+without the battery,
+I wouldn't even be able to turn on the onboard computer
+or any other systems.
+Now let me turn on the computer.
+Control shift K.
+Computer on.
+Warning.
+Fuel warning.
+And we are hearing that we are out of fuel.
+Computer off.
+So let me turn it off.
+Yeah, just for now,
+because that warning,
+that looping warning is kind of annoying.
+And let me fix that.
+With smaller planes,
+you can just,
+you as the pilot can just pour
+the required amount of fuel in yourself.
+But for larger planes like this,
+we need to use the radio for this
+and we need to contact the tower
+and ask them to dispatch the refueler for us.
+So let me turn on the radio.
+Control shift F.
+Radio on.
+And let me find out the frequencies
+of all the possible towers or controls in range
+that I'm currently able to connect to.
+We use the key nine on the numbers row for that.
+Combo box London.
+Key throw ground control 118 comma five collapsed.
+And we can hear that there's a ground control.
+London.
+Key throw approach control 113 comma eight.
+And approach control.
+The ground control obviously controls the planes
+that are taxiing along the airport.
+While the approach control is for planes
+that are flying towards the airport
+and are about to land on it
+as well as for planes.
+Once you've been assigned the runway to take off from,
+and you're about to enter that runway,
+that's when you switch your frequency from ground control
+to approach control and start talking to them
+and get the permission to enter the runway
+and then to take off from approach.
+But for now, let's talk to Ground Control.
+I'll have to set frequency.
+113.5, I believe it was.
+No.
+113.6.
+What was the...
+Oh, 118.5.
+My bad, sorry.
+118.5.
+The tower has welcomed us, as we can hear.
+Well, in my voice again, but never mind.
+No other English towers yet.
+That will be up to you to change that.
+In version 3, the towers are no longer static.
+We actually talk to them.
+We have to ask various permissions from them,
+depending on what we're currently doing.
+In our flight.
+And you always do that by pressing F1.
+Combo box board.
+Asking for boarding collapsed.
+And here you can see a list of all the possible requests
+that you can make to the tower at the moment.
+So, for instance, it wouldn't make any sense
+to ask the Ground Control for landing clearance
+when we're not even in air, not even flying.
+So that's why you can't see that request here.
+But you will see it here in the list.
+When flying and when tuned to the approach frequency.
+Engines. Asking for permission to start the engines.
+Fuel. Asking for fuel.
+Gate. Asking for gate assignment.
+Plan. I want to create a flight plan.
+Push. I need pushback.
+Repair. I need repairs.
+Runway. Asking for runway assignment.
+Unboard. Asking for onboarding.
+If I tried to ask for onboarding, for example, at the moment,
+you know, I don't even have a flight plan.
+I don't have any passengers on board and anything.
+So the tower is context sensitive and smart.
+So it won't let me do an obvious nonsense like that.
+Dashboard window.
+SK696. We haven't received any flight plan from you.
+I'm about to fix that shortly.
+Thank you.
+But first, give me some fuel.
+Fuel. Asking for fuel.
+Set fuel amount.
+Edit blank.
+2000.
+Let me do 2000 liters.
+I don't know how much that would be in gallons,
+but that's going to be more than enough.
+More than enough for us to make that whole flight successfully.
+2000.
+Dashboard window.
+SK696. We've dispatched the refueler for you.
+Before the refueler arrives, let us do some more things,
+some more preparations from the checklist ahead of time.
+So let's fasten our seatbelt with control B.
+Seatbelt fastened.
+We have already performed the system check,
+but let's also turn on the systems
+that we can at the moment,
+even without the APU and without the engines running.
+Just those ones that we have enough power for,
+even on battery alone.
+So storm radar, control shift S.
+Storm radar on.
+Strobe lights, the outside lights, shift S.
+Cabin lights on.
+Cabin lights, sorry.
+Strobe lights are shift D.
+Strobe lights on.
+Taxi lights, we'll also be needing them, shift K.
+Taxi lights on.
+Let's turn on the transponder, which will use,
+shortly with control shift T.
+Transponder on.
+And we can also turn on the Atlas,
+control shift L.
+Atlas on.
+And communicate with control shift G.
+Communicator on.
+And the refuelers come so we can already start the,
+turn on the onboard computer as well with control shift K.
+Computer on.
+This time for good because we will not be needing
+to turn it off anymore.
+We won't be hearing the annoying warning anymore.
+And now that everything's been done and we've been refueled, let's check out our fuel load with E, exactly as we requested.
+So let's turn on the APU now with Control-Page Up, and that's going to give us enough power when it starts up, finally, to turn on the engines.
+By the way, the Atlas is just another panel. If you have it turned on, you can move with the Tab key, so you don't only have to be on the dashboard controlling the plane, but you can press Tab to get to the Atlas window, and you can use the keystrokes that you would otherwise use in the manual world map exploration mode.
+So as you're flying, without needing to leave your plane, you can check anything that you need.
+And the Atlas would let you chat to or send audio messages, voice messages to other pilots, to other actual real-life players that are currently online and connected to the server and playing Eurofly alongside you.
+The APU is on, so let's turn on the other systems that we'll be needing for the flight that I was talking about.
+Let's do TCAS with Control-Shift-C.
+STALL INDICATION CONTROL-SHIFT-E, TEMPERATURE CONTROL, CONTROL-SHIFT-Q, VENTILATION, CONTROL-SHIFT-V, CABIN PRESSURIZATION, CONTROL-SHIFT-P, GPWS, the one which warns us not to crash into the ground, CONTROL-SHIFT-W,
+and let's also turn on the sensor with CONTROL-BACKSPACE.
+SENSOR ON.
+I forgot to mention that before.
+That's another new system where if you're moving on a taxiway or runway, it'll indicate audibly that there's an obstacle ahead of you or off to the side, or that you're about to leave the runway.
+Let's ask the tower for permission to start our engines, because with large planes like this one,
+you can just turn on the engines any time you want, because they produce a lot of noise and a lot of airflow,
+and you wouldn't want to, say, knock a random innocent ground control personnel away or something.
+So let's ask for the permission.
+COM ENGINES ASKING FOR PERMISSION TO START THE ENGINES.
+DASHBOARD WINDOW.
+SK-696, you have permission to start the engines.
+Thank you.
+Start engine 1 with page up.
+Starting.
+Engine 2 with page down.
+Starting.
+And you can hear that each of them...
+are playing from a different place in the stereo field.
+Engine 1 is on the left, and engine 2 is on the right.
+Since it takes a lot of time for the engines to actually start up,
+but this is something seasoned players of Euroflight 2 will have known,
+will be told with a voice prompt as well,
+as soon as the engines are done actually starting up.
+Let's find out where we're located.
+West.
+S, of course. We're facing West.
+Minus 500 not yet.
+hangar two we're in the hangar two with the k 300 hangar two and l keys these two tell us
+our coordinates on the airport k um says announces the north south coordinate so from
+bottom to top if you were to take at the entire airport as a flat surface as a flat area
+as though yeah on a painted on a sheet of paper uh the uh lowest number the first number would be
+uh all the way down to the south in the in the lower corner and the higher numbers would be
+all the way um up in the upper part or upper on the upper edge minus 500 hangar two so it since
+it says minus 500 uh we can tell that we are at the very south edge of the airport and the l key
+does the same but for uh the west east or left to right coordinate so the higher the number
+the farther off to the right we are on the map or in the area of the airport 300 hangar 2. 300
+that's also pretty uh far to the west or to the left because the maximum coordinate would be like
+200 2600 or 3000 or something and since we are we know we are in the hangar which we can also
+verify with the o key hangar doors closed West it says that the hangar doors
+are closed so let's uh open it with shift o so that we don't you know sort of so that we don't
+crash into the doors as we try to pick up some speed and drive off the hangar
+let's also find our uh height above sea level while we're at it that's done with the semicolon
+key 16. so this airport is actually only 16 meters above
+sea level or above uh yeah above sea level uh airport London Heathrow yeah
+we can find out with F 118 5 London Heathrow ground control our frequency and it says that
+we're properly uh connected to the London Heathrow ground control so we should be ready our engines
+are running um let's disengage the parking breaks with p so that we can actually start moving parking
+Let's ask the tower to assign us a gate or stand to taxi to where we'll be picking up our passengers.
+And I've completely forgotten to create my flight plan. My bad. I was saying before that I'm about to fix it.
+Well, let's do that now. First, I'm going to pick my destination where I want to fly because I believe that's the faster and easier way to do it.
+So, let's display the list of all the available airports. There are several different ways.
+You may know them from previous versions, but in this case I'm going to use the list ordered by distance from closest to farthest.
+So, I'm going to press CTRL-F8 and let's choose England-Manchester and let's add it as our destination to navigation with space.
+Let's leave this dialog.
+And let's now ask...
+...the tower with F1 to create a flight plan.
+We can see our call sign here, but you can see that this is a read-only edit field, so we can't change the call sign at any time during the flight.
+And since I just chose the destination before and added it to my navigation, it's already pre-filled in here for us.
+So, another press of the Tab key.
+There's the filter if I wanted to...if I hadn't done this before and I now had to choose England-Manchester.
+I now had to choose my destination manually and there would be like thousands of airports.
+I could filter or narrow my search down here using the filter field.
+Flight description added blank.
+There's a flight description field where other players could see like what this flight is actually about.
+If they were checking the other players that are currently connected.
+So, let's put in something here.
+The first official English demonstration of Eurofly 3 by Lucas.
+Sounds good to me.
+Asking for combo box navigated flight collapsed.
+Asking for navigated flight.
+That would be a flight corridor that the tower would create for us.
+For long-distance flights like this one, planes don't usually fly in a straight line directly to their destination.
+But they're flying over...
+Over...
+Fly over...
+Designated fly over points.
+But I'm actually going to ask for a direct flight this time.
+Direct flight.
+We could also do...
+Flight corridor through my waypoints.
+Flight corridor through my waypoints.
+So, not a flight corridor that the control tower would determine for us.
+But rather...
+Let's say that I wanted to fly to Manchester.
+Then to...
+And then back to Heathrow.
+All in one flight.
+So, what I could do is I could put all these three destinations into my navigation.
+Excuse me.
+In the order that I want to fly through them.
+And if I then chose this option.
+Flight corridor through my waypoints when creating my flight plan.
+That's what the flight corridor would be.
+Direct flight.
+But let's ask for direct flight.
+Another press of tab.
+My waypoints combo box Manchester collapsed.
+My waypoints only include Manchester, the destination for now.
+So, that's in order.
+Passengers checkbox not checked.
+And there's the checkbox for passengers.
+Yes, I do want to have passengers.
+Checked.
+I'm going to check it.
+Ask for flight button.
+And there's the ask for flight button.
+Dashboard window.
+SK696.
+Flight plan accepted.
+Set transponder to 1517.
+Our flight plan has been accepted.
+We're supposed to set the transponder now.
+I can either repeat...
+If I forget.
+I'm going to repeat the last tower announcement with space.
+SK696.
+At any time.
+Flight plan accepted.
+Set transponder to 1517.
+Or I can also press...
+In this case, I can also just press Shift T for transponder to hear just the value that's been assigned to us.
+1517.
+SKFRE 696 London.
+Heathrow.
+Manchester.
+So, it's 1517.
+1517.
+Yes.
+So, let's press Alt T to set the code.
+Set transponder value.
+Set...
+1517.
+1517.
+Dashboard window.
+Now, the tower should finally allow us to start our engines.
+Engines.
+Asking for permission to start the engines.
+Dashboard window.
+SK696.
+You have permission to start the engines.
+Oh, wait.
+But they're already...
+Combo.
+They're already running, right?
+Engine 1.
+Zero.
+No.
+Engine 2.
+Zero.
+That's just the APU.
+Okay, so...
+Stopping.
+Stopping.
+Oh, no.
+They were running.
+Zero means, yeah, the power.
+They were not producing any output, any thrust, so that's why...
+Done.
+Done.
+That's why they were at zero.
+So, again, we did get the permission, though.
+Never mind.
+We got it a second time even, so let's just restart them again.
+Starting.
+Starting.
+What I wanted to do before creating the flight plan, and couldn't do because I didn't have
+any plan, so I just remembered now, was actually to ask for the gate or a stand to pick up
+passengers.
+Combo.
+Gate.
+Asking dashboard window.
+SK696.
+Taxi to stand 5.
+Taxi to stand 5.
+The difference between a gate or stand is that the stand is like a drive-through.
+You can drive through it in any direction and stop there, and if you've entered the
+stand, say, coming from the south, so facing...
+Ready.
+Ready.
+...north, you could then keep going on in the same direction, keep going north and drive
+through it and leave it at the other side, whereas a gate is an extension of the actual
+airport building, so that's why you have to use the pushback to get out of a gate.
+You can't just keep going straight because you would then crash into the airport building.
+Okay, so we're supposed to taxi to stand 1.
+Okay.
+So we can start moving.
+We are now in the hangar.
+Minus 500, hangar 2.
+300, hangar 2.
+Hangar doors open west.
+The doors are open, so I believe we're ready.
+We've done everything.
+So I'm going to press Alt-Home to set the engine power to the maximum, but remember
+it's only going to be 10% of the overall engine power because we're currently in taxi mode.
+Gear 5.
+Gear 5.
+3.
+Keep checking my...
+6.
+...current speed with R.
+12.
+14.
+16.
+17.
+19.
+20.
+20.
+I'm going to choke it with Control-Delete.
+21.
+Fix it so that it doesn't...
+21.
+...like, doesn't drop any further.
+275.
+50.
+We're now on the Mike...
+304.
+...taxi... on the Mike taxiway, which is...
+338.
+349.
+...which goes north from...
+0.
+7.
+7.
+7.
+7.
+10.
+9.
+11.
+1.
+Mike...
+5.
+4.
+3.
+1.
+2.
+1.
+Mike.
+0.
+1.
+1.
+0.
+0.
+1.
+5.
+6.
+5.
+6.
+0.
+2.
+1.
+3.
+6.
+1.
+and this is the one that leads to north to the stands so we'll be facing east i believe
+we can bank the wheels with by up to 50 degrees so that means how sharply we'll be turning and
+you do that with either left or right obviously or with shift left and shift right arrow key
+uh for 10 degrees of the wheel inclination for with each press so i just press shift right five
+times to bank the wheels by 50 degrees and i'm listening to this one this sound tells me
+each 10 degrees that i've turned so 80
+90. press uh g key quickly to level my twice quickly to level my taxi to stand five
+plane 23 set flap position six dashboard window i'm actually supposed to it helps to extend the
+flaps down landing even when i'm just uh going traveling 23 flaps because that helps to break
+faster so that's what i'm doing so we're traveling east along zulu we can hear the stand one turning
+on our left and i'll slow down to 10
+once we are driving by stand four so that i then have enough time and enough room
+to turn sharply to the west to the north to turn sharply by 90 degrees then to be facing stand
+five again uh the layout of the airport is something that you can uh
+read and learn in the airport descriptions uh airport properties with shift enter
+and what i'll be demonstrating uh in a bit
+let me just grab my equipment that's worth more than what i have
+and
+there you go
+okay
+all right
+you know what i mean
+let me grab theích
+but why do you want
+it one
+zero
+really
+90 degrees to the left. 20, 30, and the other, higher, sharper sound, that's the bank angle
+indication, so that tells us that we're actually turning right now. 20, and 5, gear 0, 8, 6,
+4, 3, 3, 2, 1, 1, north. I'm braking, braking, braking, braking by holding down the slash
+key to stand still, so I'm now facing. 359. Ah, 359, just one degree left of north, but
+I'm standing still. 0 flaps extended downwards to 6. In 18, stand 5. Stand 5, so that's perfect,
+almost a perfect stop, considering the circumstances, considering the
+fact that I have to be talking. So let's engage the parking brakes again, B. Let's
+ask the tower to board the passengers, and let's open the cabin doors for them with control
+R, so that they can actually get in once they arrive, you know, once the bus brings them,
+and once they bring the steps for them, so that they can climb up into the plane, and
+so on.
+Which, obviously, is not a good idea.
+It obviously takes a while, so that's why we are not hearing anything yet. So while
+we are sitting here waiting for them, that's why I engaged my parking brakes, for safety
+reasons, so that we don't move even an inch, so that the plane doesn't move even an inch
+on its own. I could ask for the runway, but the tower wouldn't give me one, for the takeoff
+runway, but the tower wouldn't give me one until I have passengers on board. And we are
+sitting here waiting for them, and we can hear them coming now, finally. We can hear
+their footsteps, their boarding, and sitting down, and taking off their jackets, and fastening
+their seatbelts, like proper responsible passengers. That's good, because you don't even know what's
+coming yet. You have no idea who you're flying with. You have no idea that your pilot is
+not qualified for this type of plane. If you did, you would never dare board it. But since
+you don't, your lives are in my hands. Your destiny, and your fate.
+Your fate is all in my hands. Just stupid. Okay. The last one is about to sit down.
+245. We have 245 people on board. You can hear the sounds of other planes taxiing and
+taking off and landing around us. Now we can hear the bustle and the speech of the passengers.
+Let's close the doors, the outside doors, the cabin doors. And let's also close our
+own cockpit.
+Alt-O, because this is annoyingly loud and I want to be able to talk. Let's disengage
+our parking brakes again.
+Parking brakes off.
+And now, finally, let's ask the tower to assign me the takeoff runway.
+Combo runway. Asking for runway assignment. Dashboard window SK696. You've been assigned
+runway 09 left. You can taxi 09 left.
+You know what? Maybe this is actually a good time to show you the airport.
+Just like the plane properties are accessible with Control Enter, the airport properties
+are accessible with Shift Enter.
+Combo box pilot Lucas Hosnitl. 1. Collapsed. SKF RE 696. Free flight.
+This reiterates the call sign of our flight and my career level.
+The first official English demonstration of Eurofly 3 by Lucas.
+This is the description that I filled out while creating the flight plan.
+Boeing 787 Dreamliner. 3.
+This is the flight, the plane type.
+EGLL, London. Heathrow.
+And this is the I call flight. 5. Airplane. 1. Contact. Airplane. 8. Airplane. 9. Flight.
+And this is the ICAL sign of the airport, which is actual real-world, real-life data.
+This is the unique international identifier for each airport, which is obviously different
+for each.
+Public with maintenance services.
+Three.
+This is a category three airport.
+It's a public one with maintenance services, so including pushback and the refuelers and
+stuff like that.
+Height above sea level 16m.
+As we've already seen before, this is located just 16m above the sea level.
+Difficulty one.
+Difficulty one.
+This refers to how difficult it is to land on this airport in relation to the surrounding
+terrain.
+So if it's a difficulty one airport, that means that the surrounding terrain is relatively
+flat and shouldn't be too challenging to land on.
+Ground control 118,5.
+There are the radio frequencies for ground control.
+Approach control 113,5.
+And approach control.
+Airport description.
+And there's the airport description.
+This is the interesting part.
+And the new part.
+Runways two.
+There are two runways here.
+Runway 09R27L, 3,657m.
+There's runway 09R27L, which is.
+Runway 09R27L, 3,657m.
+3,657m long.
+The numbers that designate the runways.
+Are interesting.
+Since it's a 09 runway, it means that it goes from east to west.
+Because 90 is due east.
+You should actually always add one more zero to the end of the runway designation number.
+So 09 would become 090.
+And 27 would become 270.
+270.
+So.
+Due west.
+So.
+It's the same.
+The very same runway in both cases.
+But since it's an east-west one.
+The 27 runway is the other end of the runway actually.
+So if you were approaching the airport from the other side.
+You would likely be assigned the runway 27L.
+To land on and not 09R.
+09.
+L and R obviously stand for left and right.
+So that's why you have different entrances.
+Different auxiliary taxiways to help you reach the required entrance of your assigned runway.
+So that you don't.
+For instance, if you're supposed to be using the runway 27.
+You don't want to be coming.
+You don't want to enter it facing east.
+Facing 09.
+And.
+To.
+The west along the runway actually.
+So in that case you would be doing.
+Going in the exact opposite direction than what the tower assigned you.
+Entrance 09R.
+Delta.
+550.
+100.
+And 50.
+So we see that we enter the 09R runway from the delta taxiway.
+And we can even hear the latitude and longitude coordinates here.
+Entrance 09R.
+Delta.
+550.
+100.
+And 50.
+So it's at 550 south.
+150 west.
+Entrance 27L.
+Delta Sierra Yankee.
+550.
+3,800.
+And 10.
+And to get to the 27L entrance.
+So to the exact opposite end.
+We would need to be moving along delta.
+Then turn to the Sierra taxiway once that turning comes.
+Then drive along Sierra.
+Then turn to Yankee once that turning comes.
+And only from the Yankee taxiway.
+We would be.
+We would see.
+The entrance to the runway.
+Entrance 27L.
+27L.
+At coordinates.
+Entrance 27L.
+Delta Sierra Yankee.
+550.
+350.
+3,800.
+And 10.
+South.
+But 3,380.
+Or something.
+East.
+Surface.
+ASP.
+Yeah.
+The surface is asphalt.
+Runway 09L27R.
+Of the runway.
+Here's the same for the other runway.
+Which is 09L27R.
+Runway 09L27R.
+3,900.
+And 1M.
+Which is.
+Maybe.
+20.
+Maybe longer.
+If memory serves.
+Runway 09R27L.
+3,657.
+Yeah.
+It's like.
+300 meters longer.
+Surface.
+Runway 09L27R.
+Uh.
+So.
+There.
+This airport has two runways.
+With the exact.
+Same.
+Designations.
+That are parallel.
+That are literally.
+Next to each other.
+As you.
+Travel along the main.
+Delta.
+Taxiway.
+First.
+Because.
+Delta is always the one that goes north.
+South.
+To north.
+That means.
+Along.
+The 09R.
+Runway.
+First.
+And then.
+Along.
+09L.
+There are other taxiways.
+Like Sierra.
+And Yankee.
+And Foxtrot.
+To.
+Help you.
+Get to the other.
+End.
+Of the runway.
+Without.
+Going.
+Off.
+The.
+Taxiway.
+Entrance 09L.
+Delta.
+850.
+150.
+Entrance 27R.
+Delta.
+Foxtrot.
+Yankee.
+850.
+To.
+The.
+Runway.
+09.
+L.
+Whereas.
+For.
+09R.
+It's.
+Delta.
+Then.
+Foxtrot.
+Then.
+Yankee.
+And.
+Surface.
+ASP.
+Runway 09L.
+Entrance 09L.
+Delta.
+850.
+Entrance 27R.
+Delta.
+Foxtrot.
+Yankee.
+800.
+Oh.
+Yeah.
+I.
+Have.
+To.
+Use.
+The.
+Alpha.
+Taxiway.
+Then.
+Turn.
+To.
+Mike.
+And.
+Then.
+There.
+Would.
+Be.
+The.
+Hangar.
+The.
+Turning.
+To.
+Hangar.
+One.
+And.
+The.
+Same.
+Is.
+True.
+For.
+Hangar.
+Are.
+Thus.
+Left.
+Of.
+It.
+If.
+It's.
+If.
+This.
+Line.
+Main.
+Area.
+Southeast.
+Said.
+That.
+The.
+Main.
+Area.
+Was.
+Located.
+Southwest.
+It.
+Would.
+Mean.
+That.
+The.
+Hangars.
+Are.
+Located.
+Area.
+Of.
+The.
+Airport.
+In.
+Meters.
+Security.
+Zone.
+200.
+There's.
+Also.
+A.
+Security.
+Zone.
+200.
+Meters.
+Wide.
+In.
+All.
+Directions.
+Around.
+The.
+Airport.
+So.
+If.
+We.
+Like.
+Left.
+The.
+Uh.
+Crash.
+And.
+Destroy.
+The.
+Plane.
+Or.
+Stall.
+Obviously.
+That's.
+A.
+Major.
+Accident.
+And.
+We.
+Don't.
+Earn.
+Any.
+Money.
+And.
+Any.
+Points.
+In.
+The.
+Global.
+Leaderboard.
+But.
+On.
+The.
+Runway.
+Without.
+Permission.
+And.
+So.
+On.
+And.
+For.
+I.
+Believe.
+20.
+Accumulated.
+Penalty.
+Points.
+You.
+Lose.
+A.
+Maybe.
+For.
+10.
+Accumulated.
+Penalty.
+Points.
+You.
+Lose.
+A.
+Point.
+From.
+Your.
+Penalty.
+Penalty.
+And.
+You.
+Lose.
+Your.
+Penalty.
+Points.
+For.
+Any.
+Money.
+And.
+Any.
+Points.
+You.
+Lose.
+Penalty.
+And.
+You.
+Lose.
+Penalty.
+Points.
+You.
+Lose.
+10.
+Accumulated.
+Penalty.
+Points.
+For.
+Getting.
+degree.
+Penalty.
+Again.
+10.
+For.
+Mine.
+More money.
+That.
+Stealth.
+Penalty.
+Sc
+40.
+Points.
+Vote.
+10.
+Penalty.
+20.
+Times.
+Benefit.
+10 вообще.
+Get to the stands.
+Oh, I don't need to. I'm stupid.
+I don't need to worry about passing by the stands.
+I have already boarded them.
+Let me not talk for a while.
+Let me not talk over this.
+I need to explain the main area.
+Because the main area is 300 meters wide from south to north.
+And you can essentially split it into like three lanes.
+The bottom-most one or the south-most one between the K coordinates of 0 to 100.
+That's where the stands are. From west to east. From left to right. Along the length of the main area.
+The south to north coordinates.
+Between 100 and 200.
+So we are already over this.
+Are where the main taxiways of the airport are.
+That's where I'm trying to get.
+Because to get to delta and then to my assigned runway 09 left we need to go through alpha.
+Through the alpha taxiway.
+And between the south-north coordinates of 200 and 300 on the main area.
+In the main area.
+There are the gates.
+So we can now hear the turning to gate 3.
+And let's hope I'm not going to crash into it.
+Turn all the way away from it.
+I want nothing to do with it.
+Let me turn all the way west.
+I think I'm going to make it.
+Yeah, I'm not going to drive into it because I...
+If I did I would need to ask for pushback.
+And I've managed not to get into it.
+To drive into it.
+Which is good.
+Let me turn even closer to... or left of west.
+Closer to south.
+In order to get more southward on the main area.
+I'm now at coordinates 238.
+South to north which is too far up.
+Too far north.
+I need to get to like...
+Below 200.
+7 flaps extended.
+210 main area.
+206 main area.
+0.
+203 main area.
+201 main area.
+200.
+Now let's turn to the right.
+Let's turn due west.
+213.
+And we'll reach the alpha taxiway.
+219.
+Southwest.
+Because if an airplane has an alpha taxiway.
+That's one of the three possible main ones.
+240.
+Which always goes due west from the main area.
+251.
+If...
+Not a plane but an airport obviously.
+260.
+If the airport has a Bravo taxiway.
+That's the same principle.
+West.
+One of the...
+271.
+270.
+West.
+Main ones.
+170 main area.
+Okay.
+This should let us enter alpha perfectly.
+439 main area.
+We still have a long ways to go.
+So let me speed up a little bit.
+11 flaps extended downwards.
+Bravo.
+If there is a Bravo.
+11 flaps extended downwards.
+Always goes.
+16 flaps.
+7.
+7.
+8.
+8.
+8.
+9.
+9.
+19.
+20 flaps extended downwards.
+Due east.
+And delta.
+If there is one.
+Always goes due north.
+These are the main three possible taxiways.
+And.
+334.
+Main area.
+But since there are the gates to the north of the main area.
+278.
+Cabin.
+7.
+7.
+7.
+7.
+7.
+Oh.
+Yeah.
+Cabin lights off.
+Cabin lights on.
+284.
+200.
+274.
+268.
+Right.
+260.
+262.
+263.
+200.
+Cabin lights on.
+Cabin lights on.
+273.
+200.
+279.
+278.
+277.
+277.
+200.
+200.
+270.
+200.
+200.
+200.
+200.
+part of the main area and i needed to go to get to delta to because i know that runways o9r and o9l
+lead from delta i needed to drive a bit along alpha first so to go due west to pass the gates
+on my on the on my right to get around the gates in the north and only then as you can see as i
+was trying to align my direction i was going along alpha there was a the turning to mike on my left
+which would lead me to the hangars but that's not where i wanted to go so i kept going west and now
+i'm about to turn due north to travel uh along the main taxiway of delta resumed 20 flaps extended
+294 304 velvet i'm already on
+delta
+327 but i need to 335 341 fix my 350 direction zero two two one one north zero north now i'm
+going to do north 632 m 20 flaps extended downwards to six at a perfect speed along delta
+and i'm about to stop at my designated takeoff runway which is o9l and we're finally about to
+take off you can see that there's a lot to do even before you can take off
+and that it's a complex process there's the sierra taxiway which would help us to get to
+27l if we needed to use that sierra so to basically to reach the other end of this upcoming
+o9r runway let me switch to the uh approach control though because i know blank dashboard window i'll be needing
+I'll be needing to talk to them now and to ask them for permission to enter my runway and to take off.
+That's now no more in the power of ground control, so that's why.
+There was our 09R, we need to keep going further.
+And there's a foxtrot, another taxiway, which would help us to get to the other end of that 09L taxiway.
+I'm slowing down to 10, so that I have enough time to turn to face due east then, when the turning comes.
+This should give us more than enough time, hopefully.
+And I'm going to ask the tower to give me the permission to enter the runway.
+You know, there might be another plane there currently trying to take off from it or something.
+So I can't just turn and drive into the runway without permission, but I'm permitted, so that's fine.
+And here it comes already, so I'm turning right, 10 degrees.
+20 degrees, by the way, you can change obviously the interval and the way.
+It can be either sounds or...
+...words. You can configure this the way you like in the program settings.
+I'm pressing S alongside the indication to make sure.
+And engines to 0, power and hold down slash to brake.
+Okay, we're standing in place.
+I'm going to switch the parking brakes to make sure.
+There's 3,890 meters of runway left ahead of us.
+You can find this out if you press the K key twice, because K once gives you the latitude coordinate or south-north coordinate.
+But pressed twice tells you how long the runway ahead of you is.
+And the same is for L.
+Which normally tells you the longitude.
+But if you press it twice, you'll see that there's 11 meters of the runway behind us.
+So before I was able to fully brake and fully stop, I traveled only 11 meters of the runway length.
+Of the total runway length, which is an excellent feat, if I can say so myself.
+Minimum...
+Maximum...
+Maximum...
+Minimum flap position.
+Minimum takeoff runway length.
+It's 2,700 meters.
+And since we have 3,890 meters left, we are more than good to go.
+Because that's over a thousand meters, more than a kilometer of runway length than we need.
+It's always good to have a reserve when trying to take off.
+Now, first things first.
+Let's not forget to switch to flight mode.
+Flight mode with shift-delete.
+Flight mode.
+Or we wouldn't be able to take off at all.
+And we'd be wondering, like, why am I no longer picking up any speed?
+Why am I stuck at the 10% of the engine's power and at the speed of, like, 50?
+Now, let's set the flaps upwards for takeoff.
+Because they're now set downwards for landing.
+You can find out in the plane properties...
+Maximum cruising rate.
+Maximum...
+Maximum crew.
+Minimum flap position while taking off.
+Two.
+The minimum required flap position when taking off is two.
+Dashboard.
+But I'm actually going to set them to six.
+Six.
+Because I already know this plane and this route very well.
+And I know that it just helps to gain the required speed faster if I extend the flaps all the way.
+Six.
+Dashboard window.
+Now, let's ask for...
+Flaps set.
+The clearance to take off.
+Combo.
+Takeoff.
+Asking for takeoff clearance.
+Dashboard window.
+SK696.
+Cleared for takeoff.
+We are cleared for takeoff, which is good.
+Let's press delete to find out the status of the engines, just to make sure.
+Zero.
+Power.
+Zero percent.
+Gear zero.
+Flight mode.
+Okay.
+So, position zero.
+Power zero.
+Gear zero.
+But in flight mode.
+So, that's good.
+R.
+Zero flaps extended upwards to six.
+Now, it tells us that we're not moving.
+Our speed is zero.
+We're moving upwards to six.
+Everything's good.
+We have takeoff clearance.
+Let's just check out our current takeoff speed in the plane properties briefly.
+You can just press control enter and keep pressing C.
+Sir, condition.
+Current weight.
+Cruising speed.
+Current stall speed.
+Current takeoff speed.
+279 kilometers.
+279 kilometers.
+You see that now that we've loaded fuel and boarded passengers, the base takeoff speed,
+if memory serves, was 260 kilometers per hour, but it's nine now.
+Nineteen kilometers higher than that, it's now 279 because we obviously got heavier.
+So, it's going to take more power and more runway length for us to get moving at speed.
+Dashboard window.
+So, let's get going.
+Let's get in the air.
+I'll press alt home to set the engines to gear five quickly or to 90% of their maximum power,
+which is actually also the maximum power.
+The maximum recommended power to be flying safely.
+Oh, I forgot to disengage the parking brakes.
+You saw nothing happen.
+B.
+Parking brakes off.
+Now, alt home.
+Gear six.
+And I'll keep watching my speed with R.
+Two flaps extended upwards to six.
+Five flaps extended upwards to six.
+I can check out my power and my engine status with delete once more as well just to make
+sure.
+90.
+Power.
+63 slash 90%.
+You see that the power is set to 90% and it's currently at 63.
+It's about to raise to 90.
+90.
+Power.
+90%.
+Gear six.
+Gear six.
+Flight mode.
+Flight mode.
+So, the engines are fine.
+70 flaps extended upwards to six.
+We're currently cruising at the speed of 70.
+87 flaps extended upwards to six.
+And we have over.
+3,550.
+Still over 3,500 kilometers left ahead of us.
+So, we're fine.
+We're more than fine.
+135 flaps extended upwards to six.
+135.
+So, I still need to speed up by another 140 kilometers in order to be able to take off
+successfully.
+179 flaps extended upwards to six.
+179.
+Now, one more.
+100 more kilometers of speed and I can take off.
+202 flaps extended upwards to six.
+East.
+I'm going due east, so everything's fine.
+226 flaps extended upwards to six.
+226.
+When I have reached 279, I'm going to press shift down quickly to raise the nose by 10
+degrees.
+Because you can press down or up.
+But I don't want to be tapping them 10 times.
+276.
+280 flaps.
+10.
+5 more.
+20.
+30.
+40.
+50.
+60.
+70.
+90.
+100.
+100.
+120.
+150.
+Pause.
+Pause.
+You could hear the GPWS system giving us the readouts of the altitude as it increased
+over 100 above ground.
+And you could also hear, but it was probably drowned by the GPWS voice, that the temperature
+has increased.
+So, we're fine.
+We're fine.
+We're fine.
+We're fine.
+They're planning and sonting fitching, but I'm giving you the proper noise that the takeoff
+has been successful, so I can Janitor Leave here.
+Put in the landing gear with Ctrl G.
+I can turn on auto-navigation to the destination with Alt-P.
+I was told to climb all the way to alt.
+Alt-Y.
+This works just like...
+OK.
+Open� gegangen.
+the... I need to... oh. Shift F, set flaps to 2, lower the flaps because my cruising speed is
+already high enough and if I kept them all the way at 6 they would be damaged. The altitude
+designations work exactly the same as the runways in that you add one more zero to the end of the
+readout. So if the tower told us to climb to 7-1, that actually means 710 meters. 7-1-0.
+383, we're above the stall speed, above the base stall speed so I can lower the flaps or retract
+the flaps all the way to zero to not be using them at all and also to avoid
+them getting damaged. You see that our speed keeps getting higher. Now it's 453 kilometers per
+hour. We're still turning to our destination. This sound is the back angle indication and the
+sound played every time we turned by 10 degrees. Now it's stopped. So you can see if I check the
+airport... if I check my
+position in relation to my destination with the N key for navigation, it says dead ahead at 328,7.
+Dead ahead at 328.7. If I check my course now, 328,7 slash 328,7 auto, it says auto at the end, meaning we're
+flying using auto navigation. And if I check my altitude with Y, it's 711. Well, that's okay. The tower
+asked us to...
+climb to 710, so this is okay. 601. The speed is getting ever faster. The declared cruising speed of this
+plane is 955 kilometers per hour. Let me check the distance to the airport now. 231 kilometers,
+Manchester, 22 minutes. It's still 231 kilometers away and it's going to take us 22 minutes to get
+there at our current speed, but since we're still gaining speed, it's actually going to be much
+faster.
+One more thing that I want to mention is that we're going to have to go to the airport. We're going to
+cruise to a JCPenney. I know you're going to see this. I can tell you that it's a perfect day to go to
+JCPenney. I think that we're going to have to go to the airport to get to JCPenney. One more thing that
+I wanted to show you is another new feature in Eurofly because, as you can see already, there's tons
+of different keystrokes and it's just not possible for anyone, I think, to remember them all on the
+first go, off the top of your head. There's a help system. There's an extensive interactive help system
+built into Eurofly. You can turn that on or off at any time with alt H for help. So this is actually one
+essential keystroke that it's really good to remember on the page. There's a tree view
+here and you can see with arrow keys that there's several different categories of keystrokes
+and there's a lot of them. There's 15 keystrokes for engines and so on in each category. In
+the meantime the map is reading out the villages and towns that we're flying over but I don't
+want to be hearing that. So I set the location to be announced only if we change the continent
+that we're flying over actually changed. Let's get back to help mode. We can now expand the
+individual branches but we can also press tab to search. And here I can find the keystroke
+if I can't remember it by its meaning, by what it's supposed to do. So let's say that
+I forgot how to...
+To turn on and off the reverse thrust. So I can just type in thrust here into the search
+field.
+Tree view. Map 92. Search edit thrust.
+And if I press tab once more...
+Results combo box control plus page down. Reverse thrust on slash off collapsed.
+There's the results. There's only one keystroke and that says that it's control page down
+to turn the reverse thrust on or off.
+And there's another...
+Result edit read only less than one keystroke.
+It's not set greater.
+Another edit field where we can just press the key, keystroke, and it tells us what it
+does. So if I don't know what, say, control shift enter does...
+Display all planes currently...
+Display all planes currently at the airport.
+What does space do?
+Repeat the last tower announcement slash in a list or tree view of airports...
+Repeat the last tower announcement or there's another purpose of the same keystroke when
+browsing the map and so on. So this is what you can do.
+Sound overview combo box automatic operation completed collapse.
+There's a sound overview.
+You can browse the sounds with the arrow keys and play one with space.
+So automatic operation completed means if I was turning like I was before with auto
+navigation enabled or I was climbing to the set auto altitude, when I hear this dong,
+it means that the turning or the climb has been completed.
+Course changed by specified amount.
+Course changed by specified amount.
+That's the...
+That plays every time I turn.
+That's the...
+That plays every time I turn by 10 degrees as configured in my program settings.
+Bank angle of the wheels.
+Wink.
+This is...
+This plays regularly when we're turning or our nose is not level.
+Take off or landing runway beneath the plane.
+Take off or landing runway beneath the plane is a really important one.
+This is a continuous tone, so you can stop at any time by pressing space one more time.
+This will play when we're about to land and we're flying over the or above the designated
+runway.
+Sensor warning one.
+You are near the edge of the taxiway or runway.
+Sensor warning.
+So when we're near the edge of the taxiway, this will get faster in speed as we get closer
+and if we hear this continuous tone, we're at the very edge of the taxiway or runway.
+Taxiway or runway entrance beacon.
+You've heard this when I was turning to delta and then to 09L, etc. and you can also press
+tab one more.
+You can press tab one more time and there's various tips which you can browse through
+with the arrow keys telling you everything that you can do in this current mode.
+Currently, we're flying, so it tells us anything we can do when flying.
+Perform the flight to your destination.
+Make use of the map and look around you.
+Make use of the atlas in order to obtain more information.
+Control plus shift plus L. That turns the atlas on and off.
+Communicate with other pilots.
+Control plus shift plus G. Listen to the radio or background music called plus Y, etc.
+Explore the properties of the destination airport.
+Control plus F8.
+That's the help feature.
+I believe that's a pretty cool one.
+We still have 159 kilometers to go to Manchester, so I can show you one more pretty cool thing
+and that's the descent map of an airport which is really useful and we need to check it out
+and we need to get familiar with that before we attempt to land if we want to be successful.
+So let me pull up Manchester again to see its properties.
+Combo box England.
+Control F8.
+England London England London England London.
+England, England Manchester.
+Now that I've found it in the list.
+I'll press Shift-Enter on it to display its properties.
+We saw the airport description.
+What if I now press tab it.
+There's the another panel of the properties and that's the descent map.
+Hide above sea level 71F.
+So Manchester is 71 meters above sea level whereas Heathrow was 60 meters above sea level.
+Same altitude, safe circle, 0,3 km.
+Same altitude, safe circle, 0,3 km.
+300 meters in all directions around the airport.
+There are no hills at the same altitude.
+That means if I was trying to land, if I was approaching the airport at an altitude of 500,
+and I was 300 meters away from the airport,
+there would be no mountains or hills or terrain changes in either direction.
+But if I got farther away than 300 meters away from the airport,
+there could be a mountain or a hill on one side of the airport.
+So that's why I have to pay attention to what the GPWS is telling me,
+or I have to look ahead manually if there's an obstacle with control semicolon.
+Dashboard window.
+If there's an obstacle.
+In migrant altitude.
+Not detected.
+When it says not detected, it means I can keep flying on course and I'm safe.
+There's no hill or mountain in migrant direction, in migrant altitude.
+Dead ahead, 125 km.
+Combo.
+2 km.
+5 km.
+Same altitude, safe circle, 0,3 km.
+And now it tells me, you know, when I'm 2 km away from the airport.
+2 km, safe altitude, 142 m, which is 43 m above ground.
+I can climb to altitude, descend to altitude 143 meters, which is 43 meters above ground.
+And you'll see.
+As we're getting farther away from the airport, like this circle around the airport increases
+from 2 km this time to 5 km.
+5 km, safe altitude, 144 m, which is 45 m above ground.
+The safe altitude also increases.
+So we have to climb or to descend gradually as we approach the airport.
+10 km, safe altitude, 165 m, which is 66 m above ground.
+15 km, safe altitude, 177 m, which is 78 m above ground.
+20 km, safe altitude, 225 m, which is 126 m above ground.
+And so on and so on, all the way up to 100 km.
+But if you're already flying on course, if you've already been assigned the runway to land,
+and you're flying on course, you're aligned with the runway already,
+you can actually descend much lower and much earlier than that,
+because now you know which side you're approaching the airport from,
+and you don't need to worry about possible, like, mountains on the other side of the airport.
+That's why there is a runway.
+5, 12, 27, runway 33.
+Dashboard window.
+Wait, I chose the wrong airport.
+Combo, runway 05R.
+Ah, this is Manchester, yeah.
+Runway 05R.
+If we're aligned with runway 05R and we're approaching it,
+0,6 km, descent to 89 m, which is 18 m above ground.
+When we are 33 km away from it, we can descend to altitude 108 m, which is...
+35 km, descent to 108 m, which is 37 m above ground.
+37 m above ground.
+Then, when we are at 600 m away from the airport,
+we can descend to 89 m, which is 18 m above ground.
+So that's useful to know when you're already about to hit the runway, to land on the runway.
+But as I said, I know this route well, so I remember these values already.
+I don't need to look them up anymore.
+But even if I do,
+there's a few more useful keystrokes to do that.
+By pressing 8 on the numbers robot any time,
+I can find out what airport is currently the closest to me
+or which airport's controlled area I'm currently flying over.
+Controlled area, East Midlands, 23 km.
+Currently, I'm in the controlled area of East Midlands.
+It's 23 km away from me.
+And if I now press the comma key on the keyboard...
+30 km, safe altitude, 240 m, which is 174 m above ground.
+It tells me the current.
+Safe altitude, circle, I'm 30 km away from the airport or more.
+So the safe altitude is 240 m.
+That's good to know.
+I could then use the auto altitude to descend to the altitude if I wanted to.
+I can also press period, which tells me how high above ground I currently am.
+617 m.
+94.
+And 94 semicolon.
+Is the current sea level, height above sea level of the terrain.
+711.
+And 711, um, z, no, y, y, sorry, y is my altitude.
+66 km, Manchester, 3 minutes.
+0,1 left at 327,7.
+327,7 slash 320.
+Okay, let me, uh, ahead of time, let me switch my radio frequency to Manchester's approach control
+because I can remember it.
+If I didn't, I could look it up in the airport properties, but I know it's 135.
+0 set frequency 135 dashboard window so that I don't, uh, I'll be alerted and the airport
+will greet me as soon as I get within range, which is 50 kilometers in this case, because
+it's a category three airport.
+You can configure this in settings as well, by the way, but I have it set so that category
+three airports, uh, can be contacted when, uh, I'm 50 kilometers or less, uh, far away
+from them.
+52 kilometers.
+So the tower is going to contact us really shortly.
+When it does, I'm going to ask for a runway assignment and then immediately for approach
+clearance.
+05 left approach clearance.
+Let's slow down.
+Let's turn off auto navigation.
+And let's set my course to 270.
+so due west. It'll take a while for me to turn by 90 degrees and I have to keep checking my speed
+because I was approaching the airport on the course of 328 point something degrees but I was
+given a sign the runway of 50, 05 which means I now have to fly around the airport. I have to make
+a circle until the airport's position in relation to me is not 64 right at 334. 334 degrees but due
+50. Once it's due 50 I can turn to face it straight directly head on and that'll be the proper course
+that I need to be flying 70 right at 340 at in order to land to reach the runway. 849.
+Can you tell me how to do that?
+Manchester 35 kilometers so I can already start descending a bit as well. The current
+safe altitude circle for 50 kilometers is 545 meters so let's set my auto altitude to something
+a little higher. Let's do 548 maybe. I'm descending a bit. 772. 82 right at 352.
+544. Set altitude. 547. 547. I don't want to be below the safe altitude. 549. 549 that's a bit too
+too high. 544. 400. Set altitude. 548. Excellent. Let's let's let's leave it at that. 33 kilometers
+Manchester two minutes. 673. 90 right at zero. It's the the airport is now straight off to my
+right at position zero. Let's turn a little closer. 300. 300. 300. Auto course with alt s. 619. My speed
+is now is still okay. My 548. Altitude is now okay. 83 right at 7. 33 kilometers man. Distance is still
+okay and the airport is moving ever farther off to the right. I need to get it to 50 to be on course
+50 before I turn to face it straight. 72 right at 12. 488. 488 meters above ground. 548. At the
+altitude of 548 meters so everything's going fine so far. 76 right at 16. 514. 78 right at 18.
+I need to so I need now at this point I need to keep checking my speed so that I install and I
+also also need to keep checking the position of the airport in relation to my 81 right at 21 current
+course. 482. The current stall speed without flaps without any flaps is 380 so I need to. 84 right at
+24. Raise the flaps in time. 84 right at 24. 460. So that I don't stall. But I can still keep checking
+I can't raise them too early either, because if I did, I could damage them.
+Because the speed would be too high.
+Let's turn to zero now.
+I think it's safe to set the flaps to position 2 for landing, which decreases the stall speed from 380 kmh to 320 kmh.
+I did it perfectly, so I can still keep slowing down, because the current landing speed is 278 kmh.
+I also need to keep checking the position of the airport.
+I still have time.
+As I said before, I need it to be at course 50.
+250.
+Let's turn to 25 now.
+25 right at 41.
+351 flaps extended downwards to 2.
+25.
+25.
+17 right at 42.
+Airport is at 42.
+8 more degrees.
+I need it to move by 8 more degrees.
+344 flaps extended downwards to 2.
+344.
+That's still a bit too high of a speed.
+17 right at 42.
+I need the speed to get to 325, and then I'll extend the flaps further to position 4.
+Position 4 for landing.
+336 flaps extended downwards.
+18 right at 43.
+So that I'll be safe to keep slowing down to 278, 279, or what it was, the landing speed.
+19 right at 44.
+The current landing speed.
+327 flaps extended downwards to 2.
+Okay, let's do flaps for landing to position 4.
+Dashboard window.
+324 flaps extended downwards to 2.
+Flaps set.
+321 flaps extended downwards to 4.
+I did it.
+20 right at 45.
+Without any stalling.
+25.
+20 right at 45.
+21 kilometers.
+Manchester.
+3 minutes.
+21 kilometers.
+I'm a little bit closer than I wanted to be, but no wonder, considering that I'm also talking
+to you and describing everything as I go, everything that I'm doing.
+21 right at 46.
+312 flaps extended downwards to 4.
+I'm a little bit stressed out, but not too much.
+I believe I will be able to make it in time.
+22 right at 47.
+3 more degrees.
+Come on.
+Come on.
+Come on.
+307 flaps extended downwards to 4.
+20 more.
+Or something.
+30 more to slow down.
+23 right at 48.
+304 flaps extended downwards to 4.
+24 right at 49.
+24 right at 4.
+24 right at.
+24 right at.
+24 right at.
+24 right at.
+24 right at.
+302 flaps extended downwards to 4.
+24 right at 49.
+500.
+24 right at 49.
+24 right at 49.
+I'm going to choke the speed for now, because I need to focus on turning now.
+25 right at 50.
+Turn right.
+25 degrees.
+0.
+3 right at 51.
+Oh no.
+I screwed up.
+0.
+So let me.
+Let me.
+500.
+0.
+20.
+30.
+0.
+400.
+15.
+0.
+20.
+300.
+50.
+0.
+0.
+No.
+40.
+15.
+200.
+100.
+150.
+100.
+30.
+20.
+90.
+70.
+60.
+80.
+60.
+70.
+80.
+70.
+82.
+89.
+91.
+92.
+83.
+84.
+86.
+85.
+86.
+87.
+88.
+89.
+89.
+90.
+91.
+10.
+100.
+10.
+100.
+07.
+10.
+S.
+1.
+07.
+while flying you can only bank the wings by up to 25 degrees if you do more if you panic like i just
+did you can do more you can set the bank angle of the wings to like 50 but if you do that's just
+too steep of a bank angle you will not be able to recover from that anymore and it's just an
+unrecoverable stall all the way to the ground like what just happened so flight evaluation
+you can we can read the flight evaluation flight length 272 kilometers flight duration 33 minutes
+points minus 10 it's a real shame because we were almost about to land successfully minus 20
+minor crashes zero penalty points one started engines without permission cause of fatal stall
+bank angle too steep cause of fatal stall bank angle too steep blank blank dashboard window
+press enter to quit free flights
+but
+you know what i i know i said i wouldn't be editing anything out which i won't but i've
+changed my mind i can't just let end this here like that i can't and i can't allow myself to
+end the recording with a crash with a stall so what i'm about to do i'm going to take exactly
+literally the same flight with the same plane from the same airport to the same airport
+i'm going to pause the recording here and i'm going to resume
+it again when i'm turning and descending to align myself with the landing runway
+obviously i'll be having a different call sign this time but i will do it again this time and i
+will do it proper because i can't i don't want to let you down another one i don't want to let myself
+down well i've already let the 217 or how many passengers i had down who are dead now but i
+believe that everyone deserves to leave an English LOL
+forörperre
+deserves a second chance including myself so in order to finish this recording in a on a happy
+note and a successful note uh i'll be right back with you when i'm in the air again and i'm about
+to face the the airport the landing runway all right i'm back i'm 27 kilometers 27 kilometers
+away from manchester a little bit farther away than before 330 flaps extended 30 30 let me do
+flaps for landing to see position four because style speed is 320 at the moment and current
+landing speed is takeoff speed current landing speed 275 275 41 right at 41. and let me focus
+on piloting set course only on piloting for now a little bit so that i don't crash again
+i've explained the principle anyway and i'll explain the rest as i go 316 flaps extended
+downwards to four
+uh we should be fine 548 to go now 30 kilometers safe altitude 545 m which is as long as i don't
+don't screw up anything extended downward 311 flaps extended downwards to 4. 18 right at 43.
+okay 18 right at 43 25. so i can't turn i can't start turning too sharply like i did before
+or i'm going to 19 right at 40 stall 303 flaps extended downwards to four three 275 yeah it's
+speed okay 19 right at 44. 25 22 kilometers manchester four minutes 299 flaps extended
+down we're still closer than i would like to be 20 right at 45 but never mind 25
+295 flaps extended downwards to four 20 more kilometers to slow down 21 right at 46. 293 flaps
+extended downwards to four this is really difficult to concentrate and to talk at the same time and i
+have to concentrate 22 right at 47.
+290 flaps extended downwards to four i don't want a screw up 22 right at 47.
+288 flaps extended downwards to fourth 22 right at 47
+286 flaps extended downwards to four 23 right at 48. if i have at least 280 284 flaps extended
+downwards i can uh 24 right 49 choked the engines 282 flaps extended down we keep it 24 right going
+281 flaps extend 281 flaps 24 right at 49 280 flaps excellent hundred choked off 24 right at 48.
+24 right at 49. Excellent. 25 right at 50. Now. 31. 30, 37, 38, 40. Course 40. 43. Dead ahead at 50. Yes, dead ahead at 50. Dead ahead at 50. 279 flaps extended. 279 is my current speed, which is okay. I can land at 279 kilometers per hour. Dead ahead at 50. Dead ahead at 50. 16 kilometers though. I know I can already descend to 108.
+Altitude, when I'm aligned with the runway, because I remember it.
+But if I didn't, I could look it up in the airport properties.
+Let's set the flaps for landing all the way up to 6, so that I can brake as fast as I can.
+Let's lower the landing gear with CTRL-G.
+I'm still descending in the meantime.
+Yeah, GPWS is warning me of an imminent collision with the ground,
+but I know it's an okay altitude. I'll still be like 70 meters above the ground.
+And it's safe to be this low when aligned with the runway.
+71 above ground, yeah.
+One right at 51.
+11 kilometers.
+2 minutes.
+2 minutes.
+One right at 51.
+11 kilometers.
+Manchester.
+2 minutes.
+Climb.
+Collision with the ground.
+Imminent.
+One right at 51.
+50.
+Climb.
+Collision with the ground.
+2 minutes.
+279 flaps extended downwards to 6.
+Flaps.
+Gear.
+Speed.
+Direction.
+Yeah, a bit.
+Altitude.
+41 above ground.
+That's all good.
+8,8 km.
+When I'm 5 kilometers away from the airport,
+I can press CTRL-A.
+S to invoke the ILS system.
+Which runway do I have?
+5.
+You can begin to approach.
+Oh, no.
+Compromise.
+Dashboard window.
+SK-624, you've been assigned runway 05 right.
+05 right.
+Climb.
+Collision with ground imminent.
+ILS will offer...
+You know what?
+GPWS off.
+ILS will offer the runways that are available.
+SK-624, you've been assigned runway 05 right.
+Meaning 05L or 05R.
+6,4 km, Manchester.
+And when I choose one, so 05 right,
+SK-624, you've been assigned runway 05 right.
+And when I choose one, so 05 right,
+the runway will start sending out a radio beacon of some kind,
+which then auto guides my plane in order to...
+5,3 km.
+...stay on course, stay aligned with the runway.
+But it can only be done...
+4,9 km, Manchester.
+Combo box 05L collapse.
+05R.
+Dashboard window.
+Yes.
+Only be done when I'm close enough to the airport.
+1 right at 51.
+Now you can...
+If I check my course, you can hear...
+51,2 ILS.
+...that I'm 51.2 on course 51.2,
+but it says ILS.
+Meaning I'm being guided...
+1 right at 51.
+3,6 km, Manchester.
+...to the airport.
+Okay, I should be...
+279 flaps extended downwards to 6.
+I should actually be okay.
+Last system, length.
+Landing gear lowered.
+Dashboard...
+Gear lowered.
+Altitude is...
+46 above ground.
+46 above ground.
+279 flaps extended downwards to 6.
+Steep is okay. Flaps are okay.
+Direction is okay.
+1 right at 51.
+Since I'm...
+51,1 ILS.
+...on ILS.
+14.
+Alright.
+1,9 km, Manchester.
+0 minutes.
+In Eurofly 3, you can't just, you know,
+land anywhere near the airport.
+And just lower the nose.
+You have to be aligned with the runway,
+like I just did.
+You have to be no more than 20 meters above the ground.
+Otherwise, you would stall and break the plane.
+0,5 km.
+If you are, let me get 20 meters above the ground only.
+31 above ground.
+29 above ground.
+28 above ground.
+27 above ground.
+26 above ground.
+25.
+24.
+23 above ground.
+22.
+22.
+Runway 020.
+And land.
+24.
+You...
+10.
+Level the nose.
+Level the nose.
+And set the engines all the way down to 0.
+And essentially let the plane fall.
+Taxi mode.
+85 flaps.
+82 flaps.
+79 flaps extended.
+73 flaps extended downwards to 6.
+Let me brake by holding slash.
+64 flaps.
+All the way to 50.
+58 flaps extended.
+Kilometers per hour.
+55 flaps.
+54.
+53.
+52.
+51 flaps.
+51 flaps.
+50 flaps extended.
+Choke off.
+Choke off.
+49 flaps extended downwards to 6.
+1965m.
+1944m.
+1944m left.
+50,0 ILS.
+Of the runway ahead of us, which is perfect.
+We're on course because ILS is guiding us.
+I need to traverse the rest of the runway, so that's why I sped up.
+49 flaps extended downwards to 6.
+And it's excellent because we did it without having to stop all the way.
+As it should be.
+If you've ever flown on a plane in real life, you'll have noticed that the plane did not just stop, you know, after landing.
+It did brake all the way to a full stop and then pick up less speed again.
+1.
+Power.
+0,0%.
+Gear 1.
+Taxi mode.
+Yeah, we're in taxi mode.
+49 flaps extended downwards to 6.
+Flaps for landing.
+Oh, and I forgot...
+I believe I forgot to ask for the clearance to land.
+Taxi lights off.
+Landing lights on.
+Yeah.
+Landing lights on.
+I forgot about the...
+1235m.
+Taxi and landing lights.
+To turn off taxi lights after takeoff.
+To turn on landing lights before landing.
+And I forgot to ask for the clearance to land, which is pretty bad, but...
+1,065m.
+You know, shouldn't be happening.
+At any cost.
+We essentially landed without clearance, so I believe...
+I'm almost sure I'm going to get penalized with penalty points for that.
+We'll see it in the end, in the flight evaluation.
+But, never mind.
+825m.
+Things like that happen.
+Let's switch our frequency...
+Combo box.
+Manchester approach.
+Control 135.
+118,6.
+Dashboard window.
+Manchester ground control.
+118,6.
+Manchester ground control.
+Dashboard 684m.
+Here you are.
+Let's slow down and let's ask them to assign us a gate.
+Dashboard window.
+SK624.
+Taxi to stand 1.
+We're supposed to taxi to stand 1 to onboard our passengers.
+38 flaps extended downwards to 6.
+Alright.
+528m.
+Let's slow down to 20 now.
+33 flaps extended downwards to 6.
+20km per hour to make our movement faster.
+If we went...
+Uh, safer.
+To make our movement safer.
+Because if we were going faster than that, we may not be able to turn by 90 degrees on
+time.
+22 flaps extended.
+22.
+22 flaps.
+21 flaps.
+21 flaps.
+20 flaps.
+Choked off.
+20 flaps.
+368m.
+We still have 368m of runway ahead of us to go.
+We're supposed to go to stand 1.
+SK624.
+Taxi to stand 1.
+Yes.
+50,0.
+The next runway ahead of us, because I know this airport, I know it's going to be Yankee
+and it's going to be facing due east.
+The turning is going to be due east.
+We're currently on course 50.
+But Yankee is a north-south taxiway.
+So I'm going to need to turn to get to the runway to turn due east.
+And then when I do, when I am on the runway, I need to turn by 90 more degrees to the right
+to be facing due south.
+That'll lead me to the Sierra taxiway.
+Then I'll need to traverse that.
+That'll lead me to the runway.
+That'll lead me to Delta.
+Then I'll need to turn again and traverse Delta all the way to Mike and to Zulu.
+And Zulu will finally lead me to the stands.
+Here we go.
+Yankee.
+The Yankee taxiway on our right at course 90.
+Yankee.
+90.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+0.
+1.
+0.
+0.
+0.
+0.
+0.
+check the angle, the back angle of your nose at any time with T and of your wheels while
+on the ground or wings while airborne with T at any, with G at any time. And if you press
+T twice rapidly in short succession, you level the nose, and if you press G twice rapidly,
+you level the wings or wheels. So that's how it works. Still 1.5 kilometers left.
+We can check our coordinates. We're still all the way up north. And even more farther to the
+right, to the east, because the coordinates, they tell you the name of the taxiway or runway that
+you're currently moving on, but the coordinate system, the numbering, the entire
+numbering, refers to the whole overall area and size of the airport.
+You can see that our south-north coordinate is decreasing, so we're going south,
+and we can see in the coordinates that we're actually
+getting closer and closer to the south part, south edge of the airport. Oh, my God, let me slow down.
+Because our turning to Sierra is coming. I believe that'll be on our right. We'll be going west.
+32 flaps extended downwards to 486M. 29 flaps extended downwards to 6.
+It's still okay. I am panicking.
+Needlessly. Oh, I don't want to crash or leave the runway, because I didn't turn in time.
+Because that would also earn me more penalty points. But other than that, we're pretty safe now,
+now that we're just on the ground and only taxiing along the airport.
+0.0%. Gear 1. Taxi mode. 291M.
+Still 291 meters of...
+Yankee to go.
+20 flaps extended downwards to 6.
+Pretty fine. We're going to south. Okay, everything's fine.
+I'm just triple and quadruple checking everything at this point, because I really don't want to be...
+I really don't want to have to redo this whole thing all over again. But I think we're fine.
+I'm way more nervous than my passengers are, I hope, and that's exactly how it should be.
+So you see, this airport has a different layout.
+It has the runways 05, 0523, 0523 is a one... 0523L or 0523R, and the...
+Sierra.
+They're not beginning straight at Delta.
+Sierra.
+We have to go through these Sierra and Yankee taxiways in order to get to the airport.
+Sierra.
+So that's why you need to...
+249.
+257.
+Sierra.
+262.
+273.
+274.
+275.
+276.
+0. 0.
+390 Sierra.
+Uh, yeah.
+276.
+200.
+2002.
+274.
+273.
+272.
+272.
+271. West.
+That's why you need to learn the layout of each airport individually, preferably before
+landing on it, or before taking off from it while you still have time, by looking at its
+properties as I was describing before.
+Now, 2 kilometers of Sierra ahead, we're going in 20 due west, and you can see that our coordinates
+are staying the same, 396 the latitude, meaning we're pretty low down in the southern part
+of the airport by now.
+Now it's our longitude, the west to east coordinate, that is decreasing.
+Since we're going, we were all the way to the east, and we're not going west.
+So it's decreasing, we're moving essentially more to the left part, to the left edge of
+the airport.
+Let me speed up a bit more again.
+Because this is taking forever.
+I hope the passengers are going, are having a good time at least.
+Well, let me too, but because I became, I got pretty relieved by the fact that I was
+able to land and not crash this time around, which is pretty good.
+Let me speed up a bit more.
+Ok.
+Ok.
+Good.
+528.
+58, flap, 56, 57, 57, 58 flap, 59, 60 flaps, 60 flaps, 61 flaps, 61 flaps, 62 flaps- 63
+flaps extended down 3969m, 1261m.
+Still over 1.2, almost 1.3 kilometers to go on conversational
+00001 Cierra.
+Excuse me, 1037m.
+Then, we'll be coming to Delta, and we're about to get to Mike.
+There we go.
+May, Mike.
+And to Zulu and to the stands, we are supposed to go to stand 1, right?
+SK624 taxi to stand 1. 763m, gear 0.
+That's right. Slow down to 20 again.
+54 flaps extended downwards to 6.
+49 flaps extended downwards to 6. 584m.
+42 flaps extended downwards to 6.
+Because we don't want to pass the junction.
+36 flaps extended downwards to 6.
+Because you can't turn 180 degrees with such a large plane.
+The taxiways and runways are too narrow for that.
+Even on high speeds, you would leave the runway anyway.
+The tower will tell you that it is the case.
+And it will tell you to get off.
+Get back to your path.
+288m.
+You would get a penalty point.
+One penalty point per one runway departure.
+Like if you're moving outside of the designated runway or taxiway numbers, names,
+in an basically undefined area of the airport, like in the grass, beyond the runways, that's a penalty point.
+That's not supposed to be happening.
+152m. West.
+Going due west on Sierra.
+There's the turning to delta.
+And we'll be turning left.
+When we get to delta, we need to reach it first.
+We need the name to be announced, like the zone that we are currently in.
+And once it is, we can't be doing due west anymore because delta is a south-north taxiway.
+Turning left.
+258m.
+We go due south again.
+That was...
+Pure work.
+There's alpha.
+We need to be going east along alpha.
+Because we don't...
+We don't want to be going west.
+Alpha.
+South.
+So we'll turn left.
+90 left.
+Alpha.
+Once again.
+As long...
+Alpha.
+As soon as we're on alpha.
+Alpha.
+Now.
+And that'll lead us to Mike.
+0.
+88.
+88.
+88.
+88.
+89.
+89.
+0.
+88.
+88.
+88.
+88.
+89.
+89.
+Mike, Mike, Mike, Mike, Mike, Mike.
+We wanna go...
+Mike.
+Mike.
+.
+We need to go south again.
+Mike.
+Mike.
+And this is going to take us to Zulu.
+If we passed the Zulu junction, we would be going to the hangars.
+I don't know what the obliteration rail is.
+I don't know.
+the hangars which we can't we we can't uh park the plane in the hangar yet because we need to
+onboard the passengers first there's this zulu junction to our left due east 20 flaps extended
+downwards to six zero zero one hundred and eight ninety eight ninety zero eighty eight
+two east eighty eight eighty eight eighty eight eighty nine eighty nine eighty nine east
+now it's two east six hundred and sixty m gear zero and eighteen flaps extended downwards is
+it going to be stand five first or stand one first on this airport i don't remember 15 flaps extended
+14 flaps extended downward 13 flaps so let me slow down 12 12 12 12 flaps 11 just to make sure
+so that i don't overrun it which one is it come on come on come on stand one one oh okay
+stand one better it's a good thing that i slowed down
+stand one
+stand one 39 i need to turn to north i won't probably be able to make it in time
+but i can't stop anywhere in the stand that's the benefit stand one nine i will be able to make it
+okay three hundred three hundred three hundred three hundred three hundred north zero zero
+great full stop 16 stand one 447 stand wonderful i can turn off the sensor because it's annoying
+sensor off i won't be moving anywhere anyway anymore north i know that i'm
+so i actually probably turned a bit too early and i'm close to the right side right edge of the
+stand but since the stands are essentially free to drive through nothing would happen
+i would just leave the stand but if if this happened in a gate if i was in a gate and i kept
+going right or turning right as i was saying at the very beginning i would just crash into the gate
+and get wrecked so north let me park parking brake
+engage the parking brake let me open the cockpit door so that we can hear
+everything better our happy passengers who seem to be okay let me combo box
+board asking for board asking for ask the tower to onboard them
+dashboards 624 taxi to stand 3 and let me hey it's 10 3 now I believe it was
+one combo button doors closed dashboard we genuinely genuinely certain parking
+breaks off never mind then the tower corrected me so let's go right let's go
+east to stand 3 then
+okay
+why not you know a flap choked off eight flaps extended downward eight flaps
+extended downward 15 can happen any time in flaps 12 flap 12 flaps 13 13 14 14 15
+15 16 16 17 17 here's your own choked off 54 58 60 69 79 80 90 97 zero one
+one
+one
+hundred and one 100 and one one hundred one hundred 99 99 99 98 97 97 97 97 97
+96 96 95 95 94 now on the 94 93 92 92 91 area as you can hear 15 claps 60
+zero
+choked off year zero
+134
+zero okay i'm standing totally like parallel not straight at all in the stand but i'm in the stand
+uh let's not 44 stand three let's not attempt it any further 629 stand three so let's try this
+again engage the parking brakes parking brakes on open the cockpit doors ask the tower to
+onboard them already finally dashboard 624 starting onboarding thank you open the doors
+the captain doors for them so that they can get the hell out opened
+and you know what i believe we can turn off the engines stopping stopping and the ventilation off
+cabin pressurization off temperature control off t-cass off stall indication off and the
+battery radio off transponder off taxi lights off cabin lights off strobe lights off
+storm radar off computer monitor off communicator off atlas off and unfasten our seat belt unfastened
+because we don't need to do anything anymore we don't even need the radio for anything
+because as soon as they get out the flight will be over we'll be ranked and evaluated we did not
+do as good as i uh hoped to but never mind because uh it could have turned out worse too
+i could have spent
+more attempts than just two on recording this you know
+i'm basically just glad it turned out the way it did even though i crashed the first time
+we now we have finally safely arrived in our destination and that's the only thing that
+counts in the end the only thing that matters history is never going to ask about the first
+attempt we'll we'll pretend it did not happen and let's just pretend it never did
+uh let's just forget it ever did the flight completed you have leveled up i closed the doors
+i have leveled up i've completed the flight
+the passengers dialogue are safe in their final destination and i can have a day off as a pilot
+i can go get a beer or something uh but before i do that let's take a look at the flight evaluation
+together flight evaluation successful flight successful flight like i said that's what counts
+that's what matters not the crash before shash what are you talking about what crash there was
+no crash ever successful flight flight length 295 kilometers flight duration 48 minutes points one
+let me see i even gained a point gained a point earnings one and i earned one euro minor crashes
+zero minor crashes zero zero penalty point zero so i yeah because uh yeah but of course because i
+did not ever like uh depart the runway
+without permission or enter the runway without permission or start the engines without
+permission blink blink i did not do anything so you know what i know you keep repeating the word crash
+but what are you talking about the flight was a complete success and there was no mistakes or
+errors ever it was the golden standard of how flights in eurofly 3 should be done even with
+category 3 airplanes which i don't even know what to call them but i don't know what to call them
+even own anymore which i don't even own yet but who cares about that you know it's like uh
+what matters is that you saw no no no let's all joking aside enter to quit free flights
+let's get back to the main menu all jokes aside i hope i really sincerely hope you've enjoyed this
+because it was after all a complete flight from start to finish as it should be
+uh everything included all the steps in the checklist that you need to do in order for
+your flight to be successful in the end well besides asking for my asking for the landing
+clearance and besides the taxi lights and landing lights but these are actually quite minor
+infractions that as you can see i was not even penalized for i should actually be penalized
+for landing without clearance i'm probably going to report that one as a bug but other than that
+i think it turned out pretty okay considering all i had to do and all i had to explain in the
+meantime with literally almost no waiting for me to finish my explanations so that was it that was
+your the first official english demonstration of eurofly 3 for you almost half a year well not
+almost exactly half a year after the slovak one we were actually genuinely believing by the time the
+slovak one which which is still available i think that was a really good demonstration of the thing.
+this youtube channel was published we did actually believe it's like a matter of a couple days or a
+couple weeks at the very most for the game to come out and to get released but as i was saying before
+real life schedules were getting in the way as well as more bugs to fix more bugs that were
+being discovered more new features or changes really important and necessary ones that were
+being asked for for example the the landing process the way you land as i was just
+demonstrating a while ago the way it's currently done in version 3 was still different and it was
+it was still the old one from version 2 by the time the slovak presentation was being recorded
+so that's that's it for you that's the english demo for you hope you liked it you found it
+entertaining but not only that but i also hope that it actually taught you or should
+you the very basic principles of how to start doing things so that you have at
+least a rough idea of how things done how things are done and what is what
+once you start playing the game for yourself in a couple days or maybe even
+now if you discovered this recording a bit later on because on the day of its
+publishing that's when the series of audio recordings is starting to be
+published one recording per day the whole audio tutorial series all the 15
+basic recordings in the basic series as I was saying at the beginning and once
+those are out and released it's time for the closed private beta so things are
+definitely moving on
+I know some of you who were familiar with Eurofly before and may have been
+waiting for version 3 may have had your doubts or may have lost faith in the
+development team and may have started thinking that no version 3 is ever going
+to to come out at all ever and that it's all just empty promises so I hope this
+recording helps you helps at least partially to
+to
+eliminate that doubt and for those of you who have never even played Eurofly
+before at all who have discovered the game for the first time via this
+recording but got interested and excited about the game and can't wait to try it
+hands-on for yourself I wish you the best of success the best of luck as few
+crashes and stalls as possible I hope I wish you to become a good pilot soon and
+perhaps better than I am
+sooner than I did and I can't wait to meet you in the air at work each of us
+flying to our respective destinations and perhaps to have a chat on the
+communicator that was your first official English Eurofly 3 demo for you
+my name is Lukas I'm part of the development team I hope you liked it
+thanks for watching or listening thanks for your attention and see you next time
+in the next video!
+one of the next recordings or in Eurofly 3 itself
